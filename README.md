@@ -1,0 +1,1 @@
+//Line 1 is a sample javascript file that will try to pop up image additional info about a line when clicked
