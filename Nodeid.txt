@@ -1,4 +1,5 @@
 // coordinat ids of a specific line in a pathway
+//FromId ToId for each coordinates of a line and P value of each line
 KOId  FromId	ToId	PValue
 C00074	C00074	C00022	0.04
 C00022	C00022	C00024	0.05
